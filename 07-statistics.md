@@ -102,6 +102,7 @@ Bayesian inference
 • requires one to know or construct a ‘subjective prior’.
 • dominated statistical practice before the 20th century.
 • may be computationally intensive due to integration over many parameters.
+
 Frequentist inference (NHST)
 • never uses or gives the probability of a hypothesis (no prior or posterior).
 • depends on the likelihood P (D | H)) for both observed and unobserved data. • does not require a prior.
